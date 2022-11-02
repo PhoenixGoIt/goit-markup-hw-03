@@ -356,8 +356,15 @@ img {
   padding-bottom: 94px;
 }
 .portfolio-p {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
   font-size: 16px;
-  line-height: 1.88;
+  line-height: 30px;
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
 }
 .projects-list {
   display: flex;
